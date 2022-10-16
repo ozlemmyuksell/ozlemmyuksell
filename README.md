@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on data science and information systems!
+- 🌱 I’m currently learning quantum programming and machine learning.
+- 📫 How to reach me: yukselozlem42@gmail.com
 <!--
 **ozlemmyuksell/ozlemmyuksell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
